@@ -1,9 +1,9 @@
+<h1 align="center">Hi 👋, I'm Jeswanth</h1>
 
-# Hi, I'm Jeswanth 👋
-
-Computer Science student passionate about Backend Engineering, Full Stack Development, Data Analysis, and AI-powered applications.
-
-I love turning core CS concepts into real, working systems using **Java** and **Python**.
+<p align="center">
+Computer Science student passionate about <b>Backend Engineering</b>, <b>Full Stack Development</b>, <b>Data Analysis</b>, and <b>AI-powered applications</b>.<br/>
+I turn core CS concepts into real, working systems using <b>Java</b> and <b>Python</b>.
+</p>
 
 ---
 
@@ -12,6 +12,7 @@ I love turning core CS concepts into real, working systems using **Java** and **
 ### 💼 Freelance Hiring Platform
 
 **Key Features**
+
 - Project posting and proposal submission workflow
 - Proposal acceptance leading to contract creation (one-to-one mapping)
 - Proper Controller → Service → Repository architecture
@@ -23,6 +24,7 @@ I love turning core CS concepts into real, working systems using **Java** and **
 ### 🎬 Movie Review & Recommendation System
 
 **Key Features**
+
 - Admin can add movies
 - Users can review movies and like
 - Users can build their connections
@@ -36,12 +38,14 @@ I love turning core CS concepts into real, working systems using **Java** and **
 ### 🎓 Educational Platform Backend
 
 **Key Features**
+
 - Student enrollment management
 - Timetable generation and management
 - Exam hall allocation system
 - Module/course structure handling
 
 **Future Ideas**
+
 - AI-generated mock tests for each module
 - Predicting which module a student is weak in using performance data
 
@@ -50,6 +54,7 @@ I love turning core CS concepts into real, working systems using **Java** and **
 ## 🔭 Currently Working On
 
 ### 🏏 Cric ML Project
+
 - Time series analysis on cricket match data
 - Predictive modeling for match insights
 
@@ -57,17 +62,22 @@ I love turning core CS concepts into real, working systems using **Java** and **
 
 ## 🧠 Core Skills
 
-- Full Stack Development
-- Data Analysis
-- Machine Learning Model Building
+`Full Stack Development` • `Data Analysis` • `Machine Learning Model Building`
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, Python  
-**Frontend** React
-**Backend:** Spring Boot, REST APIs
-**Database:** MySQL  
-**Testing:** Selenium
+| Category | Tools |
+|---|---|
+| Languages | Java, Python |
+| Frontend | React |
+| Backend | Spring Boot, REST APIs |
+| Database | MySQL |
+| Testing | Selenium |
 
+---
+
+<p align="center">
+⭐ I build complete working systems — not just concepts.
+</p>
