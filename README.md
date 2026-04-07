@@ -1,83 +1,77 @@
-<h1 align="center">Hi 👋, I'm Jeswanth</h1>
+<h1 align="center">Hi 👋, I'm Jeswanth</h1> <h3 align="center">💻 Backend Developer | 🤖 AI Explorer | 📊 Data Enthusiast</h3> <p align="center"> I’m a Computer Science student passionate about building <b>real-world backend systems</b> and integrating them with <b>AI-driven solutions</b>.<br/> I enjoy turning core concepts into structured, scalable applications using <b>Java (Spring Boot)</b> and <b>Python</b>. </p>
+🎓 Education
 
+🎓 B.E Computer Science (Current)
+📌 Focus Areas:
+
+Data Structures & Algorithms
+Backend System Design
+Problem Solving
+🚀 Projects
+💼 Freelance Hiring Platform
+
+🧩 Real-world workflow simulation
+
+✨ Highlights
+
+Project posting & proposal system
+Proposal ➝ Contract (one-to-one mapping)
+Layered Architecture (Controller → Service → Repository)
+JUnit-based business logic validation
+Real freelancing lifecycle modeling
+🎬 Movie Review & Recommendation System
+
+🎯 Scalable backend with user interaction
+
+✨ Highlights
+
+Admin-controlled movie management
+User reviews, ratings, and interactions
+Dynamic average rating updates
+DTO pattern to prevent JSON recursion issues
+REST APIs tested via Thunder Client
+Clean and maintainable backend design
+🎓 Educational Platform Backend
+
+📚 Academic system design
+
+✨ Highlights
+
+Student enrollment & course structure
+Timetable and exam allocation system
+Modular backend architecture
+
+🚀 Advanced Feature (Completed)
+
+AI-based mock test generation
+Performance-based weak area detection
+🔥 AI Project
+🏏 Cric ML Project (IPL 2025 Data)
+
+📈 Applied Machine Learning on real data
+
+✨ Highlights
+
+Time series analysis on IPL dataset
+Predictive modeling for match insights
+Data-driven cricket analytics
+Practical implementation of ML concepts
+🧠 Core Skills
 <p align="center">
-Computer Science student passionate about <b>Backend Engineering</b>, <b>Full Stack Development</b>, <b>Data Analysis</b>, and <b>AI-powered applications</b>.<br/>
-I turn core CS concepts into real, working systems using <b>Java</b> and <b>Python</b>.
+
+Backend Development • Data Structures & Algorithms • Machine Learning (Applied)
+
 </p>
-
----
-
-## 🚀 Finished Projects
-
-### 💼 Freelance Hiring Platform
-
-**Key Features**
-
-- Project posting and proposal submission workflow
-- Proposal acceptance leading to contract creation (one-to-one mapping)
-- Proper Controller → Service → Repository architecture
-- Business logic validation through JUnit test cases
-- Real-world freelancing lifecycle modelling
-
----
-
-### 🎬 Movie Review & Recommendation System
-
-**Key Features**
-
-- Admin can add movies
-- Users can review movies and like
-- Users can build their connections
-- Automatic update of movie average rating when reviews change
-- DTO pattern to prevent infinite JSON serialization loops
-- RESTful API structure tested using Thunder Client
-- Layered backend architecture for scalability
-
----
-
-### 🎓 Educational Platform Backend
-
-**Key Features**
-
-- Student enrollment management
-- Timetable generation and management
-- Exam hall allocation system
-- Module/course structure handling
-
-**Future Ideas**
-
-- AI-generated mock tests for each module
-- Predicting which module a student is weak in using performance data
-
----
-
-## 🔭 Currently Working On
-
-### 🏏 Cric ML Project
-
-- Time series analysis on cricket match data
-- Predictive modeling for match insights
-
----
-
-## 🧠 Core Skills
-
-`Full Stack Development` • `Data Analysis` • `Machine Learning Model Building`
-
----
-
-## 🛠️ Tech Stack
-
-| Category | Tools |
-|---|---|
-| Languages | Java, Python |
-| Frontend | React |
-| Backend | Spring Boot, REST APIs |
-| Database | MySQL |
-| Testing | Selenium |
-
----
-
+🛠️ Tech Stack
 <p align="center">
-⭐ I build complete working systems — not just concepts.
+Category	Tools
+💻 Languages	Java, Python
+🌐 Frontend	React (Basics)
+⚙️ Backend	Spring Boot, REST APIs
+🗄️ Database	MySQL
+🧪 Testing	JUnit, Selenium
 </p>
+📈 Current Focus
+🔹 Improving backend scalability & design patterns
+🔹 Strengthening DSA for problem solving
+🔹 Building AI-powered real-world applications
