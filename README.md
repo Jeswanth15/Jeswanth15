@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeswanth</h1> <h3 align="center">💻 Backend Developer | 🤖 AI Explorer | 📊 Data Enthusiast</h3> <p align="center"> I’m a Computer Science student passionate about building <b>real-world backend systems</b> and integrating them with <b>AI-driven solutions</b>.<br/> I enjoy turning core concepts into structured, scalable applications using <b>Java (Spring Boot)</b> and <b>Python</b>. </p>
+<h1 align="center">Hi 👋, I'm Jeswanth</h1> <h3 align="center">💻 Backend Developer | 📊 Data Enthusiast</h3> <p align="center"> I’m a Computer Science student passionate about building <b>real-world backend systems</b> and integrating them with <b>AI-driven solutions</b>.<br/> I enjoy turning core concepts into structured, scalable applications using <b>Java (Spring Boot)</b> and <b>Python</b>. </p>
 🎓 Education
 
 🎓 B.E Computer Science (Current)
